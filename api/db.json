@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Stream Name",
+      "description": "Description",
+      "id": 1
+    },
+    {
+      "title": "Stream2",
+      "description": "Stream description 2",
+      "id": 2
+    },
+    {
+      "title": "Amr",
+      "description": "Yaasser",
+      "id": 3
+    },
+    {
+      "title": "React Js CRUD Opertations..",
+      "description": "Done",
+      "userId": "102673426370411865228",
+      "id": 4
+    }
+  ]
+}
